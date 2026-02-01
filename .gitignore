@@ -1,0 +1,10 @@
+*/.env/
+env
+node_modules/
+.env
+dist/
+# Ignorar datasets pesados y modelos
+*.csv
+*.index
+*.pkl
+Proyecto_chatbot_ecommerce_backend/data/

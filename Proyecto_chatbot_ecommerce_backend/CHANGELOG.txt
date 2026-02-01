@@ -1,0 +1,1 @@
+v3 fix: Compatible with newer transformers where get_*_features may return a ModelOutput. Now uses .pooler_output when present and .detach().cpu().numpy(). Also lowers text batch size to 128.

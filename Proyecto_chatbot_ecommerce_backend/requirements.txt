@@ -1,0 +1,15 @@
+pandas
+numpy
+pyarrow
+tqdm
+requests
+pillow
+torch
+torchvision
+torchaudio
+transformers
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+python-multipart
